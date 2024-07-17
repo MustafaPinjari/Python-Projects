@@ -8,7 +8,7 @@ Explore each project individually and view live demos or read descriptions to un
 
 |  #  | Project | Description |
 | :-: | ------- | ----------- |
-|     |         |             |
+| 01  | Fractal Tree Pattern ()       |  This project creates beautiful fractal trees using Python's Turtle graphics. 🌲🌳           |
 
 ## 📚 About the Projects
 
