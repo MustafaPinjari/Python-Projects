@@ -5,10 +5,10 @@ Welcome to my repository showcasing a variety of projects built with **Python**.
 ## 🌟 Project Showcase
 
 Explore each project individually and view live demos or read descriptions to understand their functionality:
-
 |  #  | Project | Description |
 | :-: | ------- | ----------- |
-| 01  | 🌲Fractal Tree Pattern (https://github.com/MustafaPinjari/Python-Projects/tree/4711d3c62b7c252065c48d5c78f865e6dc79618e/Fractal%20Tree%20Pattern)       |  This project creates beautiful fractal trees using Python's Turtle graphics. |
+| 01  | 🌲[Fractal Tree Pattern](https://github.com/MustafaPinjari/Python-Projects/tree/4711d3c62b7c252065c48d5c78f865e6dc79618e/Fractal%20Tree%20Pattern) | This project creates beautiful fractal trees using Python's Turtle graphics. |
+
 
 ## 📚 About the Projects
 
