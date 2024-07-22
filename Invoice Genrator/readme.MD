@@ -15,7 +15,7 @@ Welcome to the **Invoice Generator** project! This Python application helps you 
 ![Invoice Generator Screenshot](./Images/APP.png)
 *User Interface of the Invoice Generator*
 
-![Sample Invoice](./Downloads/ca.pdf)
+![Sample Invoice](./Images/PDF_Preview.png)
 *Preview of a Generated Invoice*
 
 ## 🛠️ Prerequisites
