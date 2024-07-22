@@ -12,10 +12,10 @@ Welcome to the **Invoice Generator** project! This Python application helps you 
 
 ## 📸 Screenshots
 
-![Invoice Generator Screenshot](./Images/APP.png)
+![Invoice Generator Screenshot](./Images/APP.png)</br>
 *User Interface of the Invoice Generator*
 
-![Sample Invoice](./Images/PDF_Preview.png)
+![Sample Invoice](./Images/PDF_Preview.png)</br>
 *Preview of a Generated Invoice*
 
 ## 🛠️ Prerequisites
