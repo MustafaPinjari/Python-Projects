@@ -12,10 +12,10 @@ Welcome to the **Invoice Generator** project! This Python application helps you 
 
 ## 📸 Screenshots
 
-![Invoice Generator Screenshot](/Images/APP.png)
+![Invoice Generator Screenshot](./Images/APP.png)
 *User Interface of the Invoice Generator*
 
-![Sample Invoice](/Downloads/ca.pdf)
+![Sample Invoice](./Downloads/ca.pdf)
 *Preview of a Generated Invoice*
 
 ## 🛠️ Prerequisites
@@ -80,7 +80,7 @@ Follow these steps to set up and run the Invoice Generator:
 
 - **Developer:** Mustafa Pinjari 👨‍💻  
 [GitHub](https://github.com/MustafaPinjari)</br>
-[LinkedIn](https://www.linkedin.com/in/mustafa-pinjari-287625256/).  
+[LinkedIn](https://www.linkedin.com/in/mustafa-pinjari-287625256/)
 
   A special thanks to all contributors and the open-source community for their support and resources! 🙌
 
