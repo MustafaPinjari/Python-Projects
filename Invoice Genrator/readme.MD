@@ -1,6 +1,3 @@
-Here's a detailed `README.md` file that includes sections for a project description, features, prerequisites, installation instructions, usage, screenshots, credits, and license information. You can also add placeholders for photos and PDF file previews.
-
-```markdown
 # 🧾 Invoice Generator 📄
 
 Welcome to the **Invoice Generator** project! This Python application helps you create and manage professional PDF invoices with ease. It provides a user-friendly interface for inputting company details, product information, and client details, and generates a well-formatted invoice that includes a company logo and an option to send the invoice via WhatsApp.
@@ -78,13 +75,11 @@ Follow these steps to set up and run the Invoice Generator:
 
    The generated PDF invoice will be saved in your `Downloads` folder. You can also send it directly to the client's WhatsApp through the application.
 
-## 📄 PDF Preview
-
 
 ## 💬 Credits
 
 - **Developer:** Mustafa Pinjari 👨‍💻  
-[GitHub](https://github.com/MustafaPinjari)
+[GitHub](https://github.com/MustafaPinjari)</br>
 [LinkedIn](https://www.linkedin.com/in/mustafa-pinjari-287625256/).  
 
   A special thanks to all contributors and the open-source community for their support and resources! 🙌
@@ -98,4 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Start using the Invoice Generator to streamline your invoicing process. If you have any questions or need assistance, feel free to reach out!
 
 Happy invoicing! 😊
-```
