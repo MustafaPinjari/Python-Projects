@@ -13,7 +13,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 04  | 🧾[Invoice Generator](https://github.com/MustafaPinjari/Python-Projects/tree/a9bd19afefb3757f98a3a352dcd96f03dba5aae5/Invoice%20Genrator) | This Python application helps you create and manage professional PDF invoices with ease. |
 | 05  | 🔑[Password Generator](https://github.com/MustafaPinjari/Python-Projects/tree/314e443de9da0628459b476452e53a4b7ab6d36c/Password%20Manager) |  This project is a simple yet effective tool to generate strong, random passwords to keep your accounts secure. |
 | 06  | 🧮[Scientific Calculator]() |  A feature-rich scientific calculator application built using Python and Tkinter. |
-| 07  | [Json To Csv] |  A File converter that converts json to csv |
+| 07  | Json To Csv |  A File converter that converts json to csv |
 
 
 ## 📚 About the Projects
