@@ -7,12 +7,12 @@ Welcome to my repository showcasing a variety of projects built with **Python**.
 Explore each project individually and view live demos or read descriptions to understand their functionality:
 |  #  | Project | Description |
 | :-: | ------- | ----------- |
-| 01  | 🌲[Fractal Tree Pattern](https://github.com/MustafaPinjari/Python-Projects/tree/4711d3c62b7c252065c48d5c78f865e6dc79618e/Fractal%20Tree%20Pattern) | This project creates beautiful fractal trees using Python's Turtle graphics. |
-| 02  | 📚[Image To PDF](https://github.com/MustafaPinjari/Python-Projects/tree/4ca517aacecf2a7a8cadd4578f8be2858d2e28a1/ImageToPDFConverter) | This project creates beautiful fractal trees using Python's Turtle graphics. |
-| 03  | 📚[Bank Management CLI](https://github.com/MustafaPinjari/Python-Projects/tree/37ba54dc14a87da0a4730a66a1bde66fcc683f8e/Bank%20Management%20CLI) | This is a simple Bank Management System developed in Python |
-| 04  | 🧾[Invoice Generator](https://github.com/MustafaPinjari/Python-Projects/tree/a9bd19afefb3757f98a3a352dcd96f03dba5aae5/Invoice%20Genrator) | This Python application helps you create and manage professional PDF invoices with ease. |
-| 05  | 🔑[Password Generator](https://github.com/MustafaPinjari/Python-Projects/tree/314e443de9da0628459b476452e53a4b7ab6d36c/Password%20Manager) |  This project is a simple yet effective tool to generate strong, random passwords to keep your accounts secure. |
-| 06  | 🧮[Scientific Calculator]() |  A feature-rich scientific calculator application built using Python and Tkinter. |
+| 01  | Fractal Tree Pattern | This project creates beautiful fractal trees using Python's Turtle graphics. |
+| 02  | Image To PDF | This project creates beautiful fractal trees using Python's Turtle graphics. |
+| 03  | Bank Management CLI | This is a simple Bank Management System developed in Python |
+| 04  | Invoice Generator | This Python application helps you create and manage professional PDF invoices with ease. |
+| 05  | Password Generator |  This project is a simple yet effective tool to generate strong, random passwords to keep your accounts secure. |
+| 06  | Scientific Calculator |  A feature-rich scientific calculator application built using Python and Tkinter. |
 | 07  | Json To Csv |  A File converter that converts json to csv |
 
 
