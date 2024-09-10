@@ -15,6 +15,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 06  | Scientific Calculator |  A feature-rich scientific calculator application built using Python and Tkinter. |
 | 07  | Json To Csv |  A File converter that converts json to csv |
 | 08  | String Search | Finds a file with the supplied string in the folder of your choosing. |
+| 09  | Fetch Links | This script gets all links from a particular website and saves them as a text file. |
 
 ## 📚 About the Projects
 
