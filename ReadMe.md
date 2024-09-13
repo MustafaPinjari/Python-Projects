@@ -18,6 +18,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 09  | Fetch Links | This script gets all links from a particular website and saves them as a text file. |
 | 10  |  Scrap Images | This script will utilize the selenium and beautifulsoup4 packages to download all photos from a specified
 webpage. |
+| 11  |  Low Battery Notification | This python script displays a notice regarding the device’s battery percentage. |
 
 ## 📚 About the Projects
 
