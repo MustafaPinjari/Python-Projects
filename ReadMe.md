@@ -1,6 +1,6 @@
 # 🚀 Python Projects Repository
 
-Welcome to my repository showcasing a variety of projects built with **Python**. This collection serves as a playground for experimenting with Python programming, exploring various libraries, and implementing creative ideas. Whether you're looking to learn, practice, or find inspiration, you'll find something valuable here.
+Welcome to my repository showcasing a variety of projects built with **Python**. This collection serves as a playground for experimenting with Python programming, exploring various libraries, and implementing creative ideas. Whether you're looking to learn, practice, or find inspiration, you'll find something valuable here
 
 ## 🌟 Project Showcase
 
