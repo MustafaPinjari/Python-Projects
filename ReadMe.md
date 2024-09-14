@@ -18,7 +18,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 09  | Fetch Links | This script gets all links from a particular website and saves them as a text file. |
 | 10  |  Scrap Images | This script will utilize the selenium and beautifulsoup4 packages to download all photos from a specified webpage. |
 | 11  |  Low Battery Notification | This python script displays a notice regarding the device’s battery percentage. |
-
+| 12  |  Calculate Your Age | This script prints your age in three different ways: Years, Months, Days |
 ## 📚 About the Projects
 
 Each project in this repository is designed to be a self-contained example of Python programming techniques. From data analysis to web scraping and more, these projects are great for learning and experimenting.
