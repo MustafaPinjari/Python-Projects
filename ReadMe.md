@@ -20,7 +20,8 @@ Explore each project individually and view live demos or read descriptions to un
 | 11  |  Low Battery Notification | This python script displays a notice regarding the device’s battery percentage. |
 | 12  |  Calculate Your Age | This script prints your age in three different ways: Years, Months, Days |
 | 13  |  Organized download folde | This is a Python script that sorts files in the Download directory into other folders based on their extension. |
-| 14  |  Send Emails in Bulk From CSV File | This script prints your age in three different ways: Years, Months, Days |
+| 14  |  Send Emails in Bulk From CSV File | This project includes a straightforward bulk email script that delivers the same message to a list of
+recipients |
 
 ## 📚 About the Projects
 
