@@ -19,7 +19,8 @@ Explore each project individually and view live demos or read descriptions to un
 | 10  |  Scrap Images | This script will utilize the selenium and beautifulsoup4 packages to download all photos from a specified webpage. |
 | 11  |  Low Battery Notification | This python script displays a notice regarding the device’s battery percentage. |
 | 12  |  Calculate Your Age | This script prints your age in three different ways: Years, Months, Days |
-| 13  |  This is a Python script that sorts files in the Download directory into other folders based on their extension. |
+| 13  |  Organized download folde | This is a Python script that sorts files in the Download directory into other folders based on their extension. |
+| 14  |  Send Emails in Bulk From CSV File | This script prints your age in three different ways: Years, Months, Days |
 
 ## 📚 About the Projects
 
