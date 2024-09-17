@@ -21,6 +21,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 12  |  Calculate Your Age | This script prints your age in three different ways: Years, Months, Days |
 | 13  |  Organized download folde | This is a Python script that sorts files in the Download directory into other folders based on their extension. |
 | 14  |  Send Emails in Bulk From CSV File | This project includes a straightforward bulk email script that delivers the same message to a list of recipients |
+| 15  |  Fetch IP Address throught Web Address | This script will be used to fetch the IP address and hostname of any website. |
 
 ## 📚 About the Projects
 
