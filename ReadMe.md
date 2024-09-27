@@ -23,6 +23,7 @@ Explore each project individually and view live demos or read descriptions to un
 | 14  |  Send Emails in Bulk From CSV File | This project includes a straightforward bulk email script that delivers the same message to a list of recipients |
 | 15  |  Fetch IP Address throught Web Address | This script will be used to fetch the IP address and hostname of any website. |
 | 16  |  Terminal Progress bar | Here I just take the example of image resizing for displaying the progress bar. when we convert lots of images at a time we can use the progress bar to show how many images are resized. |
+| 17  | Wifi Password Ejector | Get saved wifi password from your windows operating system |
 
 ## 📚 About the Projects
 
